@@ -1,4 +1,21 @@
-### Hi there 👋
+# Hola a todos 👋
+
+Mi nombre es Felipe Quant, soy de Nicaragua
+
+Soy Ingeniero Industrial, especializado en Seguridad Industrial y Ambiente.
+
+Actualmente estoy en el aprendizaje de programación y análisis de datos estadísticos, pues considero que estos son campos que se están volviendo de gran relevancia.
+
+
+
+| codigo | Descripción |
+| ls |  Para listar el contenido de un directorio|
+| Clear | Para borrar| 
+| cd | Cambia de directorio |
+| cp | Copiar archivo |
+| mv | Mover archivo |
+
+
 
 <!--
 **fjquants/fjquants** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
